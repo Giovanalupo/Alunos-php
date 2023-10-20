@@ -5,7 +5,7 @@ Veremos também na prátia os métyodo de inicialização (construtor) e finaliz
 <?php 
 //Inluindo a classe que criada na pasta "Classes"
 
-include("Alunos-php/class.php");
+include("class.php");
 
 //Instanciando um novo obj (p1)
 $p1 = new Pessoa(); 
@@ -378,186 +378,186 @@ $p33->Hobbie= "ver sdérie e jogar vôlei";
 
 
 //Imprimindo valores inseridos no obj (p1) usando echo 
-echo "Nome:" . $p1 -> Nome . "br/>
+echo "Nome:" . $p1 -> Nome . "<br/>
 Altura:". $p1 -> Altura . "<br />
  Nascimento:".$p1->Nascimento."<br />
  Hobbie:".$p1->Hobbie."<br /> <br/><hr/><br/>";
 
 
 //Imprimindo valores inseridos no obj (p2) usando echo 
-echo "Nome:" . $p2 -> Nome . "br/>
+echo "Nome:" . $p2 -> Nome . "<br/>
 Altura:". $p2 -> Altura . "<br />
  Nascimento:".$p2->Nascimento."<br />
  Hobbie:".$p2->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p3) usando echo 
-echo "Nome:" . $p3 -> Nome . "br/>
+echo "Nome:" . $p3 -> Nome . "<br/>
 Altura:". $p3 -> Altura . "<br />
  Nascimento:".$p3->Nascimento."<br />
  Hobbie:".$p3->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p4) usando echo 
-echo "Nome:" . $p4 -> Nome . "br/>
+echo "Nome:" . $p4 -> Nome . "<br/>
 Altura:". $p4 -> Altura . "<br />
  Nascimento:".$p4->Nascimento."<br />
  Hobbie:".$p4->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p5) usando echo 
-echo "Nome:" . $p5 -> Nome . "br/>
+echo "Nome:" . $p5 -> Nome . "<br/>
 Altura:". $p5 -> Altura . "<br />
  Nascimento:".$p5->Nascimento."<br />
  Hobbie:".$p5->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p6) usando echo 
-echo "Nome:" . $p6 -> Nome . "br/>
+echo "Nome:" . $p6 -> Nome . "<br/>
 Altura:". $p6 -> Altura . "<br />
  Nascimento:".$p6->Nascimento."<br />
  Hobbie:".$p6->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p7) usando echo 
-echo "Nome:" . $p7 -> Nome . "br/>
+echo "Nome:" . $p7 -> Nome . "<br/>
 Altura:". $p7 -> Altura . "<br />
  Nascimento:".$p7->Nascimento."<br />
  Hobbie:".$p7->Hobbie."<br /> <br/><hr/><br/>";
 
  //Imprimindo valores inseridos no obj (p8) usando echo 
-echo "Nome:" . $p8 -> Nome . "br/>
+echo "Nome:" . $p8 -> Nome . "<br/>
 Altura:". $p8 -> Altura . "<br />
  Nascimento:".$p8->Nascimento."<br />
  Hobbie:".$p8->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p9) usando echo 
-echo "Nome:" . $p9 -> Nome . "br/>
+echo "Nome:" . $p9 -> Nome . "<br/>
 Altura:". $p9 -> Altura . "<br />
  Nascimento:".$p9->Nascimento."<br />
  Hobbie:".$p9->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p10) usando echo 
-echo "Nome:" . $p10 -> Nome . "br/>
+echo "Nome:" . $p10 -> Nome . "<br/>
 Altura:". $p10 -> Altura . "<br />
  Nascimento:".$p10->Nascimento."<br />
  Hobbie:".$p10->Hobbie."<br /> <br/><hr/><br/>";
 
  //Imprimindo valores inseridos no obj (p11) usando echo 
-echo "Nome:" . $p11 -> Nome . "br/>
+echo "Nome:" . $p11 -> Nome . "<br/>
 Altura:". $p11 -> Altura . "<br />
  Nascimento:".$p11->Nascimento."<br />
  Hobbie:".$p11->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p12) usando echo 
-echo "Nome:" . $p12 -> Nome . "br/>
+echo "Nome:" . $p12 -> Nome . "<br/>
 Altura:". $p12 -> Altura . "<br />
  Nascimento:".$p12->Nascimento."<br />
  Hobbie:".$p12->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p12) usando echo 
-echo "Nome:" . $p13 -> Nome . "br/>
+echo "Nome:" . $p13 -> Nome . "<br/>
 Altura:". $p13 -> Altura . "<br />
  Nascimento:".$p13->Nascimento."<br />
  Hobbie:".$p13->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p14) usando echo 
-echo "Nome:" . $p14 -> Nome . "br/>
+echo "Nome:" . $p14 -> Nome . "<br/>
 Altura:". $p14 -> Altura . "<br />
  Nascimento:".$p14->Nascimento."<br />
  Hobbie:".$p14->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p15) usando echo 
-echo "Nome:" . $p15 -> Nome . "br/>
+echo "Nome:" . $p15 -> Nome . "<br/>
 Altura:". $p15 -> Altura . "<br />
  Nascimento:".$p15->Nascimento."<br />
  Hobbie:".$p15->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p16) usando echo 
-echo "Nome:" . $p16 -> Nome . "br/>
+echo "Nome:" . $p16 -> Nome . "<br/>
 Altura:". $p16 -> Altura . "<br />
  Nascimento:".$p16->Nascimento."<br />
  Hobbie:".$p16->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p17) usando echo 
-echo "Nome:" . $p17 -> Nome . "br/>
+echo "Nome:" . $p17 -> Nome . "<br/>
 Altura:". $p17 -> Altura . "<br />
  Nascimento:".$p17->Nascimento."<br />
  Hobbie:".$p17->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p18) usando echo 
-echo "Nome:" . $p18 -> Nome . "br/>
+echo "Nome:" . $p18 -> Nome . "<br/>
 Altura:". $p18 -> Altura . "<br />
  Nascimento:".$p18->Nascimento."<br />
  Hobbie:".$p18->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p19) usando echo 
-echo "Nome:" . $p19 -> Nome . "br/>
+echo "Nome:" . $p19 -> Nome . "<br/>
 Altura:". $p19 -> Altura . "<br />
  Nascimento:".$p19->Nascimento."<br />
  Hobbie:".$p19->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p20) usando echo 
-echo "Nome:" . $p20 -> Nome . "br/>
+echo "Nome:" . $p20 -> Nome . "<br/>
 Altura:". $p20 -> Altura . "<br />
  Nascimento:".$p20->Nascimento."<br />
  Hobbie:".$p20->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p21) usando echo 
-echo "Nome:" . $p21 -> Nome . "br/>
+echo "Nome:" . $p21 -> Nome . "<br/>
 Altura:". $p21 -> Altura . "<br />
  Nascimento:".$p21->Nascimento."<br />
  Hobbie:".$p21->Hobbie."<br /> <br/><hr/><br/>";
 
  //Imprimindo valores inseridos no obj (p22) usando echo 
-echo "Nome:" . $p22 -> Nome . "br/>
+echo "Nome:" . $p22 -> Nome . "<br/>
 Altura:". $p22 -> Altura . "<br />
  Nascimento:".$p22->Nascimento."<br />
  Hobbie:".$p22->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p23) usando echo 
-echo "Nome:" . $p23 -> Nome . "br/>
+echo "Nome:" . $p23 -> Nome . "<br/>
 Altura:". $p23 -> Altura . "<br />
  Nascimento:".$p23->Nascimento."<br />
  Hobbie:".$p23->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p24) usando echo 
-echo "Nome:" . $p24 -> Nome . "br/>
+echo "Nome:" . $p24 -> Nome . "<br/>
 Altura:". $p24 -> Altura . "<br />
  Nascimento:".$p24->Nascimento."<br />
  Hobbie:".$p24->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p25) usando echo 
-echo "Nome:" . $p25 -> Nome . "br/>
+echo "Nome:" . $p25 -> Nome . "<br/>
 Altura:". $p25 -> Altura . "<br />
  Nascimento:".$p25->Nascimento."<br />
  Hobbie:".$p25->Hobbie."<br /> <br/><hr/><br/>";
 
 
  //Imprimindo valores inseridos no obj (p26) usando echo 
-echo "Nome:" . $p26 -> Nome . "br/>
+echo "Nome:" . $p26 -> Nome . "<br/>
 Altura:". $p26 -> Altura . "<br />
  Nascimento:".$p26->Nascimento."<br />
  Hobbie:".$p26->Hobbie."<br /> <br/><hr/><br/>";
 
 
   //Imprimindo valores inseridos no obj (p27) usando echo 
-echo "Nome:" . $p27 -> Nome . "br/>
+echo "Nome:" . $p27 -> Nome . "<br/>
 Altura:". $p27 ->Altura . "<br />
  Nascimento:".$p27->Nascimento."<br />
  Hobbie:".$p27->Hobbie."<br /> <br/><hr/><br/>";
@@ -565,7 +565,7 @@ Altura:". $p27 ->Altura . "<br />
 
 
   //Imprimindo valores inseridos no obj (p28) usando echo 
-echo "Nome:" . $p28 -> Nome . "br/>
+echo "Nome:" . $p28 -> Nome . ",br/>
 Altura:". $p28 -> Altura . "<br />
  Nascimento:".$p28->Nascimento."<br />
  Hobbie:".$p28->Hobbie."<br /> <br/><hr/><br/>";
@@ -573,14 +573,14 @@ Altura:". $p28 -> Altura . "<br />
 
 
   //Imprimindo valores inseridos no obj (p29) usando echo 
-echo "Nome:" . $p29 -> Nome . "br/>
+echo "Nome:" . $p29 -> Nome . "<br/>
 Altura:". $p29 -> Altura . "<br />
  Nascimento:".$p29->Nascimento."<br />
  Hobbie:".$p29->Hobbie."<br /> <br/><hr/><br/>";
  
  
   //Imprimindo valores inseridos no obj (p30) usando echo 
-echo "Nome:" . $p30-> Nome . "br/>
+echo "Nome:" . $p30-> Nome . "<br/>
 Altura:". $p30 -> Altura . "<br />
  Nascimento:".$p30->Nascimento."<br />
  Hobbie:".$p30->Hobbie."<br /> <br/><hr/><br/>";
@@ -594,14 +594,14 @@ Altura:". $p31 -> Altura . "<br />
 
 
    //Imprimindo valores inseridos no obj (p32) usando echo 
-echo "Nome:" . $p32 -> Nome . "br/>
+echo "Nome:" . $p32 -> Nome . "<br/>
 Altura:". $p32 -> Altura . "<br />
  Nascimento:".$p32->Nascimento."<br />
  Hobbie:".$p32->Hobbie."<br /> <br/><hr/><br/>";
 
 
    //Imprimindo valores inseridos no obj (p33) usando echo 
-echo "Nome:" . $p33 -> Nome . "br/>
+echo "Nome:" . $p33 -> Nome . "<br/>
 Altura:". $p33 -> Altura . "<br />
  Nascimento:".$p33->Nascimento."<br />
  Hobbie:".$p33->Hobbie."<br /> <br/><hr/><br/>";
